@@ -5,37 +5,38 @@ Aplicação em Java para gerenciar usuários (Administrador, Gerente, Colaborado
 
 Funcionalidades
 
-Cadastro de usuários, projetos e equipes.
+- Cadastro de usuários, projetos e equipes.
 
-Validação de duplicidade (CPF, login, nomes de projetos e equipes).
+- Validação de duplicidade (CPF, login, nomes de projetos e equipes).
 
-Listagem de usuários, projetos e equipes.
+- Listagem de usuários, projetos e equipes.
 
-Interação via console e tratamento básico de erros (try/catch).
+- Interação via console e tratamento básico de erros (try/catch).
 
 Tecnologias
-Java
 
-Coleções (ArrayList)
+- Java
 
-Datas (LocalDate)
+- Coleções (ArrayList)
 
-Entrada e saída via console (Scanner)
+- Datas (LocalDate)
+
+- Entrada e saída via console (Scanner)
 
 Como Executar
 
-Navegue até a pasta do projeto no terminal.
+- Navegue até a pasta do projeto no terminal.
 
-Compile: javac Main.java
+- Compile: javac Main.java
 
-Execute: java Main
+- Execute: java Main
 
-Siga o menu no console.
+- Siga o menu no console.
 
 Observações
 
-Dados são armazenados em memória; ao encerrar o programa, são perdidos.
+- Dados são armazenados em memória; ao encerrar o programa, são perdidos.
 
-Polimorfismo implementado no método getPerfil() de Usuario.
+- Polimorfismo implementado no método getPerfil() de Usuario.
 
-Pode ser expandido com persistência em banco de dados ou interface gráfica.
+- Pode ser expandido com persistência em banco de dados ou interface gráfica.
